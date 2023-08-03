@@ -16,4 +16,8 @@ Data
 Data is comming from kaggle [Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data).
 
 
+Description
+----
+There are two version of implementation, first is done by tensorflow, mainly use LSTM to build the model; the second is done by PyTorch, mainly use BERT to classify the toxic comments.
 
+Hope you enjoy it!
